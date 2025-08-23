@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+![](images/IMG_4262.png){width="389"}
+
+Originally hailing from Dresden in Germany, I moved to Scotland in 2017 to pursue a Psychology degree. I graduated from the University of Glasgow with a MA in Psychology with a Specialism in Neuroscience (First Class) in 2021, and a MSc in Psychological Research (Distinction) from the University of Edinburgh in 2022. Since 2022, I have been a PhD student in Social Robotics at the [UKRI Centre For Doctoral Training in Socially Intelligent Artificial Agents](https://socialcdt.org/) (Social AI CDT), based at the University of Glasgow.
+
+My research interests lie in drawing on psychological theory to examine how we use and integrate novel technology into everyday life. For this I use a variety of interdisciplinary and mixed-methods approaches. I am also interested in robust, open, and well-considered research practices within psychology. 
+
+Outside of academia, I am an avid reader, film fan (the older the film, the better), and enjoy drawing and painting. 
