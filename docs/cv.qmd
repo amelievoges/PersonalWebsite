@@ -1,0 +1,9 @@
+---
+title: "CV"
+format: html
+---
+
+<iframe src="files/AmelieVogesCV2025.pdf" 
+        width="100%" height="800px" 
+        style="border:none;">
+</iframe>

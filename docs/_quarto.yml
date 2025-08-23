@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-footer: "CC-BY-SA-4.0 (2025) Amelie Voges"
+  title: "Amelie Voges"
+  description: "Academic and Personal Website of Amelie Voges"
+  navbar:
+    title: "Amelie Voges"
+    left:
+      - href: index.qmd
+      - about.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Publications"
+        href: Publications.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/amelie-voges-9b9bb1329
+      - icon: twitter
+        href: https://twitter.com/amelielvoges 
+    
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
